@@ -31,11 +31,13 @@ d = 1
 
 lyap_num = 2*N
 
-
+#vetor diferença:
 #w = [np.random.uniform() for i in range(4*N)]
 w = 2*np.random.randint(4*N)-np.ones(4*N)
 w = w/np.dot(w,w)
 
+
+#FUNÇÃO QUE TÁ DANDO ERRO, indicando divisão por zero
 def ortho(v):
 
   Q = v
@@ -239,6 +241,8 @@ for r in range(N):
 
 time = np.arange(0,100,h)
 
+
+#Laço para os expoentes de Lyapunov
 for k in range(len(w)):
 
   print(k)
@@ -270,6 +274,8 @@ for k in range(len(w)):
 
   exp.append(last)
   
+
+  #ortonormalização
   w = ortho(w)
 
   print(np.linalg.norm(w))
