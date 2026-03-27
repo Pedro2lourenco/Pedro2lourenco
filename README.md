@@ -1,6 +1,6 @@
-# 👋 Olá, eu sou Pedro Lourenço
+# 👋 Olá!
 
-Sou um Mestrando em Física apaixonado por **Computação Científica** e **Análise de Dados**, com foco no desenvolvimento de simulações numéricas e modelagem de sistemas físicos complexos.
+Me chamo **Pedro Lourenço**, sou um Mestrando em Física apaixonado por **Computação Científica** e **Análise de Dados**, com foco no desenvolvimento de simulações numéricas e modelagem de sistemas físicos complexos.
 
 ---
 
