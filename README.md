@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Pedro Lourenço
 
-Sou apaixonado por **Computação Científica** e **Análise de Dados**, com foco no desenvolvimento de simulações numéricas e modelagem de sistemas físicos complexos.
+Sou um Mestrando em Física apaixonado por **Computação Científica** e **Análise de Dados**, com foco no desenvolvimento de simulações numéricas e modelagem de sistemas físicos complexos.
 
 ---
 
@@ -14,8 +14,7 @@ Atualmente, concentro meus esforços em transformar dados em insights e construi
 
 ## 🔬 Áreas de atuação
 
-- 📊 Análise de dados científicos  
-- 🔥 Simulações de Monte Carlo  
+- 📊 Análise de dados científicos   
 - ⚛️ Física Estatística e sistemas complexos  
 - 🔁 Métodos de autocorrelação e séries temporais  
 - 🧠 Modelagem computacional  
@@ -59,7 +58,6 @@ Atualmente, concentro meus esforços em transformar dados em insights e construi
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
-
 ## 📈 O que eu faço
 
 - Desenvolvimento de simulações físicas (ex: modelo de Ising)  
@@ -67,16 +65,6 @@ Atualmente, concentro meus esforços em transformar dados em insights e construi
 - Análise de séries temporais e cálculo de autocorrelação  
 - Estudo de propriedades termodinâmicas via simulação  
 - Manipulação e visualização de grandes volumes de dados  
-
----
-
-## 🧪 Projetos em destaque
-
-- 📊 Estimativa do tempo de autocorrelação integrado  
-- 🔥 Simulação do modelo de Ising com interações de segunda vizinhança  
-- ⚙️ Paralelização de simulações com MPI  
-- 📉 Cálculo de energia, magnetização e suscetibilidade  
-
 ---
 
 ## 🎯 Objetivos
@@ -90,8 +78,8 @@ Atualmente, concentro meus esforços em transformar dados em insights e construi
 
 ## 📫 Contato
 
-- GitHub: [seu-usuario-aqui]  
-- LinkedIn: [seu-link-aqui]  
+- GitHub: github.com/Pedro2lourenco
+- LinkedIn: linkedin.com/in/pedro-lourenco-005247262
 
 ---
 
