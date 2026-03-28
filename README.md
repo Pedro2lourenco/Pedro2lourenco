@@ -15,52 +15,32 @@ Atualmente, direciono meus esforços para a transformação de dados em insights
 ## 🔬 Áreas de atuação
 
 📊 Análise de Dados Científicos
-
 - Tratamento, processamento e visualização de dados experimentais e simulados
-
 - Inferência estatística e extração de insights a partir de grandes volumes de dados
 
-
 ⚛️ Física Estatística e Sistemas Complexos
-
 - Modelagem de sistemas interagentes e fenômenos emergentes
-
 - Simulações baseadas em Monte Carlo e análise de transições de fase
 
-
 🔁 Séries Temporais e Autocorrelação
-
 - Cálculo de funções de autocorrelação e tempo de autocorrelação integrada
-
 - Análise de correlações em dados dependentes e estimativa de incertezas
 
-
 🧠 Modelagem Computacional e Métodos Numéricos
-
 - Desenvolvimento de algoritmos para simulação de sistemas físicos
-
 - Resolução numérica de problemas complexos (integração, otimização e amostragem)
-
 - Implementação de métodos estocásticos e determinísticos
 
-
 ⚙️ Computação Científica e Otimização
-
 - Escrita de códigos eficientes e escaláveis
-
 - Paralelização de algoritmos
-
 - Análise de desempenho e otimização de código
 
-
 📈 Estatística Aplicada e Análise de Dados
-
 - Métodos de estimação, testes de hipótese e análise de variância
-
 - Regressão, ajuste de curvas e modelagem probabilística
-
-- Análise de incertezas e propagação de erros 
-
+- Análise de incertezas e propagação de erros
+  
 ---
 
 ## 💻 Tecnologias e ferramentas
@@ -108,19 +88,10 @@ Atualmente, direciono meus esforços para a transformação de dados em insights
 ## 📈 O que eu faço
 
 - Desenvolvimento de simulações numéricas de sistemas físicos complexos (ex.: modelo de Ising e variantes)
-
 - Implementação e otimização de algoritmos de Monte Carlo, incluindo Metropolis e Parallel Tempering (Replica Exchange)
-
 - Análise avançada de séries temporais, com cálculo de funções de autocorrelação e tempo de autocorrelação integrada
-
 - Investigação de propriedades termodinâmicas e fenômenos críticos a partir de dados simulados
-
 - Processamento, manipulação e visualização de grandes volumes de dados científicos
-
-- Extração de métricas estatísticas, análise de incertezas e validação de resultados numéricos
-
-- Desenvolvimento de pipelines computacionais para análise reprodutível e escalável
-
 - Otimização de desempenho e paralelização de códigos para ambientes de alto desempenho (HPC)  
 ---
 
