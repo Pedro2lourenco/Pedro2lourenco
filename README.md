@@ -1,23 +1,65 @@
 # 👋 Olá!
 
-Me chamo **Pedro Lourenço**, sou um Mestrando em Física apaixonado por **Computação Científica** e **Análise de Dados**, com foco no desenvolvimento de simulações numéricas e modelagem de sistemas físicos complexos.
+Me chamo Pedro Lourenço e sou mestrando em Física, com forte interesse em Computação Científica e Análise de Dados. Tenho experiência no desenvolvimento de simulações numéricas e na modelagem de sistemas físicos complexos, buscando aplicar métodos computacionais para a compreensão e resolução de problemas científicos.
 
 ---
 
 ## 🚀 Sobre mim
 
-Minha trajetória une Física e programação, com ênfase em resolver problemas através de métodos computacionais. Tenho experiência no desenvolvimento de códigos eficientes para simulações, análise estatística de dados e interpretação de fenômenos físicos por meio de algoritmos.
+Minha trajetória integra Física e programação, com foco na resolução de problemas por meio de métodos computacionais. Possuo experiência no desenvolvimento de códigos eficientes para simulações numéricas, análise estatística de dados e interpretação de fenômenos físicos por meio de algoritmos.
 
-Atualmente, concentro meus esforços em transformar dados em insights e construir modelos que descrevem sistemas reais com precisão.
+Atualmente, direciono meus esforços para a transformação de dados em insights relevantes e para a construção de modelos capazes de descrever sistemas reais com alto grau de precisão.
 
 ---
 
 ## 🔬 Áreas de atuação
 
-- 📊 Análise de dados científicos   
-- ⚛️ Física Estatística e sistemas complexos  
-- 🔁 Métodos de autocorrelação e séries temporais  
-- 🧠 Modelagem computacional  
+- 📊 Análise de Dados Científicos
+
+- Tratamento, processamento e visualização de dados experimentais e simulados
+
+- Inferência estatística e extração de insights a partir de grandes volumes de dados
+
+
+⚛️ Física Estatística e Sistemas Complexos
+
+- Modelagem de sistemas interagentes e fenômenos emergentes
+
+- Simulações baseadas em Monte Carlo e análise de transições de fase
+
+
+🔁 Séries Temporais e Autocorrelação
+
+- Cálculo de funções de autocorrelação e tempo de autocorrelação integrada
+
+- Análise de correlações em dados dependentes e estimativa de incertezas
+
+
+🧠 Modelagem Computacional e Métodos Numéricos
+
+- Desenvolvimento de algoritmos para simulação de sistemas físicos
+
+- Resolução numérica de problemas complexos (integração, otimização e amostragem)
+
+- Implementação de métodos estocásticos e determinísticos
+
+
+⚙️ Computação Científica e Otimização
+
+- Escrita de códigos eficientes e escaláveis
+
+- Paralelização de algoritmos
+
+- Análise de desempenho e otimização de código
+
+
+📈 Estatística Aplicada e Análise de Dados
+
+- Métodos de estimação, testes de hipótese e análise de variância
+
+- Regressão, ajuste de curvas e modelagem probabilística
+
+- Análise de incertezas e propagação de erros 
 
 ---
 
@@ -65,11 +107,21 @@ Atualmente, concentro meus esforços em transformar dados em insights e construi
 ---
 ## 📈 O que eu faço
 
-- Desenvolvimento de simulações físicas (ex: modelo de Ising)  
-- Implementação de algoritmos de Monte Carlo (Metropolis, Parallel Tempering)  
-- Análise de séries temporais e cálculo de autocorrelação  
-- Estudo de propriedades termodinâmicas via simulação  
-- Manipulação e visualização de grandes volumes de dados  
+- Desenvolvimento de simulações numéricas de sistemas físicos complexos (ex.: modelo de Ising e variantes)
+
+- Implementação e otimização de algoritmos de Monte Carlo, incluindo Metropolis e Parallel Tempering (Replica Exchange)
+
+- Análise avançada de séries temporais, com cálculo de funções de autocorrelação e tempo de autocorrelação integrada
+
+- Investigação de propriedades termodinâmicas e fenômenos críticos a partir de dados simulados
+
+- Processamento, manipulação e visualização de grandes volumes de dados científicos
+
+- Extração de métricas estatísticas, análise de incertezas e validação de resultados numéricos
+
+- Desenvolvimento de pipelines computacionais para análise reprodutível e escalável
+
+- Otimização de desempenho e paralelização de códigos para ambientes de alto desempenho (HPC)  
 ---
 
 ## 🎯 Objetivos
