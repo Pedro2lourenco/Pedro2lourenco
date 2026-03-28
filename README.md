@@ -14,7 +14,7 @@ Atualmente, direciono meus esforços para a transformação de dados em insights
 
 ## 🔬 Áreas de atuação
 
-- 📊 Análise de Dados Científicos
+📊 Análise de Dados Científicos
 
 - Tratamento, processamento e visualização de dados experimentais e simulados
 
