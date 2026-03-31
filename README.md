@@ -49,8 +49,7 @@ Atualmente, direciono meus esforços para a transformação de dados em insights
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=green&color=black)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
@@ -76,7 +75,7 @@ Atualmente, direciono meus esforços para a transformação de dados em insights
 ---
 
 ### 🐧 Ambiente
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-800020?style=for-the-badge&logo=linux&logoColor=green&color=800020)
 
 ---
 
