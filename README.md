@@ -75,7 +75,7 @@ Atualmente, direciono meus esforços para a transformação de dados em insights
 ---
 
 ### 🐧 Ambiente
-![Linux](https://img.shields.io/badge/Linux-800020?style=for-the-badge&logo=linux&logoColor=green&color=800020)
+![Linux](https://img.shields.io/badge/Linux-800020?style=for-the-badge&logo=linux&logoColor=white&color=800020)
 
 ---
 
