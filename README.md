@@ -1,6 +1,6 @@
 # 👋 Olá!
 
-Me chamo Pedro Lourenço e sou mestrando em Física, com forte interesse em Computação Científica e Análise de Dados. Tenho experiência no desenvolvimento de simulações numéricas e na modelagem de sistemas físicos complexos, buscando aplicar métodos computacionais para a compreensão e resolução de problemas científicos.
+Me chamo Pedro Lourenço, sou mestrando em Física e estudante de Ciência de Dados, com forte interesse em Computação Científica e Análise de Dados. Tenho experiência no desenvolvimento de simulações numéricas e na modelagem de sistemas físicos complexos, buscando aplicar métodos computacionais para a compreensão e resolução de problemas científicos.
 
 ---
 
