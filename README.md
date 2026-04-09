@@ -18,7 +18,7 @@ Atualmente, direciono meus esforços para a transformação de dados em insights
 
 ⚛️ Física Estatística e Sistemas Complexos
 
-🔁 Anáçise de Séries Temporais e Autocorrelação
+🔁 Análise de Séries Temporais e Autocorrelação
 
 🧠 Modelagem Computacional e Métodos Numéricos
 
