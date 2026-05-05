@@ -50,7 +50,7 @@ Atualmente, direciono meus esforços para a transformação de dados em insights
 ---
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Pedro2lourenco&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="400" alt="streak graph"  />
+  <img src="[![GitHub Streak](https://streak-stats.demolab.com?user=Pedro2Lourenco&theme=shades-of-purple&hide_border=true&border_radius=2.0&locale=pt_BR&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&hide_total_contributions=true)](https://git.io/streak-stats)" alt="streak graph"  />
 </div>
 
 ---
