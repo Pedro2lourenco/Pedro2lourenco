@@ -10,6 +10,8 @@ Minha trajetória integra Física e programação, com foco na resolução de pr
 
 Atualmente, direciono meus esforços para a transformação de dados em insights relevantes e para a construção de modelos capazes de descrever sistemas reais com alto grau de precisão. Link para o meu portifólio pessoal: https://pedro2lourenco.github.io/portf1/ .
 
+---
+
 ## 💻 Skills
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) 
@@ -50,7 +52,9 @@ Atualmente, direciono meus esforços para a transformação de dados em insights
 ---
 
 <div align="center">
-  <img src="[![GitHub Streak](https://streak-stats.demolab.com?user=Pedro2Lourenco&theme=shades-of-purple&hide_border=true&border_radius=2.0&locale=pt_BR&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&hide_total_contributions=true)](https://git.io/streak-stats)" alt="streak graph"  />
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=Pedro2Lourenco&theme=shades-of-purple&hide_border=true&border_radius=2.0&locale=pt_BR&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&hide_total_contributions=true" alt="streak graph" />
+  </a>
 </div>
 
 ---
@@ -63,6 +67,7 @@ Atualmente, direciono meus esforços para a transformação de dados em insights
 - Investigação de propriedades termodinâmicas e fenômenos críticos a partir de dados simulados
 - Processamento, manipulação e visualização de grandes volumes de dados científicos
 - Otimização de desempenho e paralelização de códigos para ambientes de alto desempenho (HPC)
+
 ---
 
 
