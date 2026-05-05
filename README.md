@@ -31,7 +31,7 @@ Atualmente, direciono meus esforços para a transformação de dados em insights
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="60"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="60"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scipy/scipy-original.svg" height="60"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" height="60"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="60"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="60"/>
   </div>
