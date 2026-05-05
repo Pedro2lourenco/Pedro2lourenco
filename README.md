@@ -12,46 +12,55 @@ Atualmente, direciono meus esforços para a transformação de dados em insights
 
 ## 💻 Skills
 
-<div>
+<div align="center">
+
+  <h3>🧠 Linguagens</h3>
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px;">
+    <img src="https://skillicons.dev/icons?i=c" height="60"/>
+    <img src="https://skillicons.dev/icons?i=python" height="60"/>
+    <img src="https://skillicons.dev/icons?i=bash" height="60"/>
+    <img src="https://skillicons.dev/icons?i=postgres" height="60"/>
+    <img src="https://skillicons.dev/icons?i=r" height="60"/>
+    <img src="https://skillicons.dev/icons?i=html" height="60"/>
+    <img src="https://skillicons.dev/icons?i=css" height="60"/>
+  </div>
+
+  <br>
+  
+  <h3>📊 Data Science & ML</h3>
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="60"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="60"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scipy/scipy-original.svg" height="60"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="60"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="60"/>
+  </div>
+
+  <br>
 
   
-  <img src="https://skillicons.dev/icons?i=c,python,bash,postgres,r,html,css" height="60"/>
-  <br><br>
+  <h3>⚙️ Ferramentas</h3>
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px;">
+    <img src="https://skillicons.dev/icons?i=linux" height="60"/>
+    <img src="https://skillicons.dev/icons?i=git" height="60"/>
+    <img src="https://skillicons.dev/icons?i=github" height="60"/>
+  </div>
 
- 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="60"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="60"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scipy/scipy-original.svg" height="60"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="60"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="60"/>
+  <br>
 
-  <br><br>
 
-  <img src="https://skillicons.dev/icons?i=linux,git,github" height="60"/>
-
-  <br><br>
-
- 
-  <img src="https://img.shields.io/badge/Jupyter-Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
-  <img width="6"/>
-  <img src="https://img.shields.io/badge/MPI-FF6F00?style=flat-square"/>
-  <img width="6"/>
-  <img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white"/>
-  <img width="6"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square"/>
-  <img width="6"/>
-  <img src="https://img.shields.io/badge/Gnuplot-FF6600?style=flat-square"/>
-  <img width="6"/>
-  <img src="https://img.shields.io/badge/Statsmodels-003B57?style=flat-square"/>
-  <img width="6"/>
-  <img src="https://img.shields.io/badge/LangChain-2E7DE9?style=flat-square"/>
+  <h3>🧪 Extras</h3>
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px;">
+    <img src="https://img.shields.io/badge/Jupyter-Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MPI-FF6F00?style=flat-square"/>
+    <img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square"/>
+    <img src="https://img.shields.io/badge/Gnuplot-FF6600?style=flat-square"/>
+    <img src="https://img.shields.io/badge/Statsmodels-003B57?style=flat-square"/>
+    <img src="https://img.shields.io/badge/LangChain-2E7DE9?style=flat-square"/>
+  </div>
 
 </div>
-
 ---
 
 ## 🤝 Soft Skills
@@ -65,6 +74,13 @@ Atualmente, direciono meus esforços para a transformação de dados em insights
 ![Adaptabilidade](https://img.shields.io/badge/Adaptabilidade-7f30cf?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Pedro2lourenco&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+---
+
 ## 📈 O que eu faço
 
 - Desenvolvimento de simulações numéricas de sistemas físicos complexos
@@ -75,16 +91,10 @@ Atualmente, direciono meus esforços para a transformação de dados em insights
 - Otimização de desempenho e paralelização de códigos para ambientes de alto desempenho (HPC)
 ---
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Pedro2lourenco&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-
----
 
 ## 📫 Contato
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pedro2lourenco)
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pedro-lourenco-00524726)
 
 ---
