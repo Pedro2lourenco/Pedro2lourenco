@@ -10,52 +10,47 @@ Minha trajetória integra Física e programação, com foco na resolução de pr
 
 Atualmente, direciono meus esforços para a transformação de dados em insights relevantes e para a construção de modelos capazes de descrever sistemas reais com alto grau de precisão. Link para o meu portifólio pessoal: https://pedro2lourenco.github.io/portf1/ .
 
----
-
-## 🔬 Áreas de atuação
-
-📊 Análise de Dados Científicos
-
-⚛️ Física Estatística e Sistemas Complexos
-
-🔁 Análise de Séries Temporais e Autocorrelação
-
-🧠 Modelagem Computacional e Métodos Numéricos
-
-⚙️ Computação Científica e Otimização
-
-📈 Estatística Aplicada e Análise de Dados
-
----
-
 ## 💻 Skills
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=green&color=black)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+<div align="center">
 
-![MPI](https://img.shields.io/badge/MPI-FF6F00?style=for-the-badge&logo=mpi&logoColor=white)
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+  
+  <img src="https://skillicons.dev/icons?i=c,python,bash,postgres,r,html,css" height="60"/>
+  <br><br>
 
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Statsmodels](https://img.shields.io/badge/Statsmodels-003B57?style=for-the-badge)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-2E7DE9?style=for-the-badge&logo=langchain&logoColor=white)
+ 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="60"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="60"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scipy/scipy-original.svg" height="60"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="60"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="60"/>
 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-![Gnuplot](https://img.shields.io/badge/Gnuplot-FF6600?style=for-the-badge)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  <br><br>
 
-![Linux](https://img.shields.io/badge/Linux-800020?style=for-the-badge&logo=linux&logoColor=white&color=800020)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+  <img src="https://skillicons.dev/icons?i=linux,git,github" height="60"/>
+
+  <br><br>
+
+ 
+  <img src="https://img.shields.io/badge/Jupyter-Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
+  <img width="6"/>
+  <img src="https://img.shields.io/badge/MPI-FF6F00?style=flat-square"/>
+  <img width="6"/>
+  <img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white"/>
+  <img width="6"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square"/>
+  <img width="6"/>
+  <img src="https://img.shields.io/badge/Gnuplot-FF6600?style=flat-square"/>
+  <img width="6"/>
+  <img src="https://img.shields.io/badge/Statsmodels-003B57?style=flat-square"/>
+  <img width="6"/>
+  <img src="https://img.shields.io/badge/LangChain-2E7DE9?style=flat-square"/>
+
+</div>
 
 ---
 
@@ -80,26 +75,16 @@ Atualmente, direciono meus esforços para a transformação de dados em insights
 - Otimização de desempenho e paralelização de códigos para ambientes de alto desempenho (HPC)
 ---
 
-## 🎯 Objetivos
-
-- Aprofundar conhecimentos em **Data Science** e **Machine Learning**  
-- Expandir aplicações de computação científica em problemas reais  
-- Otimizar códigos para alto desempenho e escalabilidade  
-- Atuar profissionalmente com análise de dados e modelagem computacional  
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Pedro2lourenco&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
 
 ---
 
 ## 📫 Contato
 
-- GitHub: github.com/Pedro2lourenco
-- LinkedIn: linkedin.com/in/pedro-lourenco-005247262
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pedro2lourenco)
 
----
-
-## ⚡ Filosofia
-
-> "Se você consegue simular, você consegue entender."
-
-A computação é minha principal ferramenta para explorar, validar e compreender sistemas complexos.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pedro-lourenco-00524726)
 
 ---
