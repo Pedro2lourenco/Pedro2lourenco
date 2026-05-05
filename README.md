@@ -12,55 +12,29 @@ Atualmente, direciono meus esforços para a transformação de dados em insights
 
 ## 💻 Skills
 
-<div align="center">
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white) 
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=green&color=black) 
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white) 
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) 
+![MPI](https://img.shields.io/badge/MPI-FF6F00?style=for-the-badge&logo=mpi&logoColor=white) 
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white) 
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) 
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) 
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white) 
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) 
+![Statsmodels](https://img.shields.io/badge/Statsmodels-003B57?style=for-the-badge) 
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) 
+![LangChain](https://img.shields.io/badge/LangChain-2E7DE9?style=for-the-badge&logo=langchain&logoColor=white) 
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge) 
+![Gnuplot](https://img.shields.io/badge/Gnuplot-FF6600?style=for-the-badge) 
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
+![Linux](https://img.shields.io/badge/Linux-800020?style=for-the-badge&logo=linux&logoColor=white&color=800020) 
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-  <h3>🧠 Linguagens</h3>
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px;">
-    <img src="https://skillicons.dev/icons?i=c" height="60"/>
-    <img src="https://skillicons.dev/icons?i=python" height="60"/>
-    <img src="https://skillicons.dev/icons?i=bash" height="60"/>
-    <img src="https://skillicons.dev/icons?i=postgres" height="60"/>
-    <img src="https://skillicons.dev/icons?i=r" height="60"/>
-    <img src="https://skillicons.dev/icons?i=html" height="60"/>
-    <img src="https://skillicons.dev/icons?i=css" height="60"/>
-  </div>
-
-  <br>
-  
-  <h3>📊 Data Science & ML</h3>
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="60"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="60"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" height="60"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="60"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="60"/>
-  </div>
-
-  <br>
-
-  
-  <h3>⚙️ Ferramentas</h3>
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px;">
-    <img src="https://skillicons.dev/icons?i=linux" height="60"/>
-    <img src="https://skillicons.dev/icons?i=git" height="60"/>
-    <img src="https://skillicons.dev/icons?i=github" height="60"/>
-  </div>
-
-  <br>
-
-
-  <h3>🧪 Extras</h3>
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px;">
-    <img src="https://img.shields.io/badge/Jupyter-Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
-    <img src="https://img.shields.io/badge/MPI-FF6F00?style=flat-square"/>
-    <img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square"/>
-    <img src="https://img.shields.io/badge/Gnuplot-FF6600?style=flat-square"/>
-    <img src="https://img.shields.io/badge/Statsmodels-003B57?style=flat-square"/>
-    <img src="https://img.shields.io/badge/LangChain-2E7DE9?style=flat-square"/>
-  </div>
-
-</div>
 ---
 
 ## 🤝 Soft Skills
