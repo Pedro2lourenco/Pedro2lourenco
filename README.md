@@ -51,8 +51,11 @@ Atualmente, direciono meus esforços para a transformação de dados em insights
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Pedro2Lourenco&theme=shades-of-purple&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
-
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=Pedro2Lourenco&theme=shades-of-purple&hide_border=true&locale=pt_BR" />
+  </a>
+</div>
 ---
 
 ## 📈 O que eu faço
