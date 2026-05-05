@@ -12,7 +12,7 @@ Atualmente, direciono meus esforços para a transformação de dados em insights
 
 ## 💻 Skills
 
-<div align="center">
+<div>
 
   
   <img src="https://skillicons.dev/icons?i=c,python,bash,postgres,r,html,css" height="60"/>
