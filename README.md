@@ -56,6 +56,7 @@ Atualmente, direciono meus esforços para a transformação de dados em insights
     <img src="https://streak-stats.demolab.com?user=Pedro2Lourenco&theme=shades-of-purple&hide_border=true&locale=pt_BR" />
   </a>
 </div>
+
 ---
 
 ## 📈 O que eu faço
