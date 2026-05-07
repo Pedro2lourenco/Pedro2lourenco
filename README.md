@@ -11,7 +11,7 @@ Minha trajetória integra Física e programação, com foco na resolução de pr
 Atualmente, direciono meus esforços para a transformação de dados em insights relevantes e para a construção de modelos capazes de descrever sistemas reais com alto grau de precisão. Link para o meu portifólio pessoal: https://pedro2lourenco.github.io/portf1/ .
 
 ---
-## 🎓 Certificações 
+## 🎓 Certificações (Clicável)
 
 [![Machine Learning](https://img.shields.io/badge/IBM-Machine_Learning-052FAD?style=for-the-badge&logo=ibm&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/9WHE59SKRBBU)
 [![SQL](https://img.shields.io/badge/IBM-SQL_Data_Science-000000?style=for-the-badge&logo=ibm&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/FBX2EZO96NMB)
