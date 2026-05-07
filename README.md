@@ -13,9 +13,11 @@ Atualmente, direciono meus esforços para a transformação de dados em insights
 ---
 ## 🎓 Certificações 
 
-[![Machine Learning](https://img.shields.io/badge/Coursera-Machine_Learning-blue?style=for-the-badge&logo=coursera)](https://www.coursera.org/account/accomplishments/verify/9WHE59SKRBBU)
-[![SQL](https://img.shields.io/badge/Coursera-SQL_Data_Science-black?style=for-the-badge&logo=ibm)](https://www.coursera.org/account/accomplishments/verify/FBX2EZO96NMB)
-[![Python](https://img.shields.io/badge/Coursera-Python_Data_Analytics-3776AB?style=for-the-badge&logo=python)](https://www.coursera.org/account/accomplishments/verify/HR0TWZXABIP5)
+[![Machine Learning](https://img.shields.io/badge/IBM-Machine_Learning-052FAD?style=for-the-badge&logo=ibm&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/9WHE59SKRBBU)
+
+[![SQL](https://img.shields.io/badge/IBM-SQL_Data_Science-000000?style=for-the-badge&logo=ibm&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/FBX2EZO96NMB)
+
+[![Python](https://img.shields.io/badge/Meta-Python_Data_Analytics-0866FF?style=for-the-badge&logo=meta&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/HR0TWZXABIP5)
 ---
 
 ## 💻 Skills
