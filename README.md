@@ -77,7 +77,7 @@ Atualmente, direciono meus esforços para a transformação de dados em insights
 ---
 
 
-## 📫 Contato
+## 📫 Contato (Clicável)
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pedro2lourenco)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pedro-lourenco-00524726)
