@@ -13,9 +13,11 @@ Atualmente, direciono meus esforços para a transformação de dados em insights
 ---
 ## 🎓 Certificações (Clicável)
 
-[![Machine Learning](https://img.shields.io/badge/IBM-Machine_Learning-052FAD?style=for-the-badge&logo=ibm&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/9WHE59SKRBBU)
-[![SQL](https://img.shields.io/badge/IBM-SQL_Data_Science-000000?style=for-the-badge&logo=ibm&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/FBX2EZO96NMB)
-[![Python](https://img.shields.io/badge/Meta-Python_Data_Analytics-0866FF?style=for-the-badge&logo=meta&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/HR0TWZXABIP5)
+[![Machine Learning IBM](https://img.shields.io/badge/IBM-Machine_Learning-052FAD?style=for-the-badge&logo=ibm&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/9WHE59SKRBBU)
+[![SQL IBM](https://img.shields.io/badge/IBM-SQL_for_Data_Science-000000?style=for-the-badge&logo=ibm&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/FBX2EZO96NMB)
+[![Python Meta](https://img.shields.io/badge/Meta-Python_Data_Analytics-0866FF?style=for-the-badge&logo=meta&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/HR0TWZXABIP5)
+[![Machine Learning Duke](https://img.shields.io/badge/Duke_University-Machine_Learning-012169?style=for-the-badge&logo=coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/records/FN5ISHC24JKF)
+
 ---
 
 ## 💻 Skills
