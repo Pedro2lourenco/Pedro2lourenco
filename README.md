@@ -1,14 +1,8 @@
-# 👋 Olá!
 
-Me chamo Pedro Lourenço, sou mestrando em Física e estudante de Ciência de Dados, com forte interesse em Computação Científica e Análise de Dados. Tenho experiência no desenvolvimento de simulações numéricas e na modelagem de sistemas físicos complexos, buscando aplicar métodos computacionais para a compreensão e resolução de problemas científicos.
+# 👋 Olá! 
 
----
+Sou **Pedro Lourenço**, mestrando em Física e estudante de Ciência de Dados, atuando na interseção entre Física e programação. Com forte interesse em Computação Científica, possuo experiência no desenvolvimento de simulações numéricas, análise estatística de dados e modelagem de sistemas físicos complexos. Meu foco é aplicar métodos computacionais para transformar dados em insights relevantes e construir modelos precisos para a resolução de problemas científicos reais. Conheça meus projetos no meu portfólio: https://pedro2lourenco.github.io/portf1/.
 
-## 🚀 Sobre mim
-
-Minha trajetória integra Física e programação, com foco na resolução de problemas por meio de métodos computacionais. Possuo experiência no desenvolvimento de códigos eficientes para simulações numéricas, análise estatística de dados e interpretação de fenômenos físicos por meio de algoritmos.
-
-Atualmente, direciono meus esforços para a transformação de dados em insights relevantes e para a construção de modelos capazes de descrever sistemas reais com alto grau de precisão. Link para o meu portifólio pessoal: https://pedro2lourenco.github.io/portf1/ .
 
 ---
 ## 🎓 Certificações (Clicável)
