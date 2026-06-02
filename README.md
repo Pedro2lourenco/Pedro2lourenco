@@ -55,7 +55,7 @@ Sou **Pedro Lourenço**, mestrando em Física e estudante de Ciência de Dados, 
 
 ![Pedro2lourenco github-stats](https://stats.hyo.dev/api/github-stats-advanced?login=Pedro2lourenco)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro2lourenco&layout=compact&theme=transparent&hide_border=true&hide=html,css)](https://github.com/Pedro2lourenco)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pedro2lourenco&theme=github)
 
 
 ---
