@@ -54,7 +54,6 @@ Sou **Pedro Lourenço**, mestrando em Física e estudante de Ciência de Dados, 
 ---
 
 ![Pedro2lourenco github-stats](https://stats.hyo.dev/api/github-stats-advanced?login=Pedro2lourenco)
-![Pedro2lourenco GitHub stats](https://github.com/Pedro2lourenco/github-readme-stats)
 
 ---
 
