@@ -59,11 +59,19 @@ Sou **Pedro Lourenço**, mestrando em Física e estudante de Ciência de Dados, 
 
 ## 📈 O que eu faço
 
-- Desenvolvimento de simulações numéricas de sistemas físicos complexos
-- Implementação e otimização de algoritmos de Monte Carlo, incluindo Metropolis e Parallel Tempering (Replica Exchange)
-- Análise avançada de séries temporais, com cálculo de funções de autocorrelação e tempo de autocorrelação integrada
-- Investigação de propriedades termodinâmicas e fenômenos críticos a partir de dados simulados
-- Processamento, manipulação e visualização de grandes volumes de dados científicos
-- Otimização de desempenho e paralelização de códigos para ambientes de alto desempenho (HPC)
+### Física Computacional & HPC
+* **Simulações Numéricas:** Desenvolvimento de códigos estruturados para modelagem de sistemas físicos complexos e investigação de fenômenos críticos.
+* **Algoritmos Estocásticos:** Implementação e otimização de métodos de Monte Carlo avançados, incluindo *Metropolis* e *Parallel Tempering (Replica Exchange)*.
+* **Computação de Alto Desempenho:** Otimização de performance, paralelização de algoritmos e gestão de memória em C/C++ e Python para ambientes HPC.
+
+### Ciência de Dados & Machine Learning
+* **Modelagem Preditiva:** Construção, treino e validação de modelos de machine learning para tarefas de classificação, regressão e deteção de padrões.
+* **Engenharia de Features & Dados:** Manipulação, limpeza e transformação de grandes volumes de dados científicos e comerciais, garantindo a integridade e qualidade do pipeline de dados.
+* **Visualização de Dados:** Criação de gráficos dinâmicos e estáticos de alta qualidade para comunicar insights complexos e apoiar a tomada de decisões.
+
+### Estatística & Análise Temporal
+* **Análise de Séries Temporais:** Estudo rigoroso e modelagem de dados temporais provenientes de simulações e bases de dados do mundo real.
+* **Análise Estocástica Avançada:** Cálculo e interpretação de funções de autocorrelação e tempo de autocorrelação integrada para avaliar a convergência e eficiência de dados estruturados.
+
 
 ---
